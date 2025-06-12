@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Fish",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"adjective": ["fishy"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
